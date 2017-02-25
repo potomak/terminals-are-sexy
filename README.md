@@ -179,6 +179,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [jrnl](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file. 
 * [tig](https://github.com/jonas/tig) - Text mode interface for git.
 * [vifm](http://vifm.info/) - a console file manager with vi key bindings and some ideas from mutt.
+* [haskell-player](https://hackage.haskell.org/package/haskell-player) - A terminal music player based on afplay.
 
 ## Communication
 
